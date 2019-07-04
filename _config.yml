@@ -5,7 +5,7 @@
 title: Guangman Xiang
 #url: "https://brave-submarine.cloudvent.net"
 url: "https://astroxgm.top"
-#enforce_ssl: astroxgm.top
+enforce_ssl: astroxgm.top
 baseurl:
 #google_analytics_key:'UA-143317226-1'
 google_maps_javascript_api_key:
@@ -17,12 +17,12 @@ description: 她的城
 author:
   name:xiangguangman 
   email:gm.xiang@foxmail.com
-  #twitter: xgm
+  twitter: # xgm
 social:
   name: gmxiang
   links:
-    - https://xiangguangman.github.io
-    #- https://astroxgm.top
+    #- https://xiangguangman.github.io
+    - https://astroxgm.top
 # -----
 # Build
 
