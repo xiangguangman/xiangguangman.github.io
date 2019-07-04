@@ -12,15 +12,15 @@ disqus_shortname:xiangguangman
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: App marketing template for Jekyll.
+description: 她的城
 author:
   name:xiangguangman 
   email:gm.xiang@foxmail.com
   twitter: faust
 social:
-  name: Frisco Template
+  name: gmxiang
   links:
-    - https://github.com/CloudCannon/frisco-jekyll-template
+    - https://xiangguangman.github.io
 
 # -----
 # Build
