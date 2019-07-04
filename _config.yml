@@ -9,7 +9,7 @@ enforce_ssl: astroxgm.top
 baseurl:
 #google_analytics_key:'UA-143317226-1'
 google_maps_javascript_api_key:
-disqus_shortname:xiangguangman
+#disqus_shortname:xiangguangman
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
