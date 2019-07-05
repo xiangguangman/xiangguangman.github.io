@@ -9,7 +9,3 @@ author_staff_member: gmxiang
 ---
 这是我的城，记录我的故事。
 ![Checkmate](https://source.unsplash.com/random/1500x1000)
-
-
-
-##![Raspberries](https://source.unsplash.com/random/1500x1001)
